@@ -1,20 +1,20 @@
 # Site settings
-title: Thomas Zühlke
+title: Houkibosi
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'http://houkibosi.com'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/houkibosi.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
+  name: 'jaymin lee'
+  email: houkibosi486@gmail.com
+  twitter_username: houkibosi
+  facebook_username: houkibosi
+  github_username:  houkibosi
+  linkedin_username:  houkibosi
   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
